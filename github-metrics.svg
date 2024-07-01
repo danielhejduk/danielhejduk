@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 30 Jun 2024, 02:39:37
+Last generated: 1 Jul 2024, 02:41:05
 </div>
 <div class="stdin"><span class="ps1-path">danielhejduk@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Daniel Hejduk</b> registered=5m, uid=2098, gid=2
   contributed to 23 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -70,16 +70,16 @@ Last generated: 30 Jun 2024, 02:39:37
 <b>X-Accessibility</b>: 84%
 <b>X-Best-Practices</b>: 96%
 <b>X-SEO</b>: 91%
-<b>&gt; Time to interactive</b>: 0.208s (ok +)
-<b>&gt; Speed Index</b>: 0.564s (ok +)
+<b>&gt; Time to interactive</b>: 0.21s (ok +)
+<b>&gt; Speed Index</b>: 0.533s (ok +)
 <b>&gt; Total Blocking Time</b>: 0s (ok +)
-<b>&gt; First Contentful Paint</b>: 0.208s (ok +)
-<b>&gt; Largest Contentful Paint</b>: 0.208s (ok +)
-<b>&gt; Cumulative Layout Shift</b>: 3.61128593708957 (bad)
+<b>&gt; First Contentful Paint</b>: 0.21s (ok +)
+<b>&gt; Largest Contentful Paint</b>: 0.21s (ok +)
+<b>&gt; Cumulative Layout Shift</b>: 5.418749049630801 (bad)
 </div>
 
 
-<footer>Connection reset by 209.0.1.36</footer></pre>
+<footer>Connection reset by 83.113.100.254</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
